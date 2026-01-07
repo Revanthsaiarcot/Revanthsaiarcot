@@ -78,12 +78,10 @@ Created customizable, secure, fully responsive Experience Cloud website.
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Revanthsaiarcot&show_icons=true&theme=tokyonight" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Revanthsaiarcot&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api?username=Revanthsaiarcot&theme=tokyonight&show_icons=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Revanthsaiarcot&layout=compact&theme=tokyonight" />
 </p>
-<p align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Revanthsaiarcot&layout=compact&theme=tokyonight" />
-</p>
+
 
 
 
